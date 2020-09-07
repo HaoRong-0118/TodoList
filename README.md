@@ -30,6 +30,6 @@ The following **nice to have** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/HaoRong-0118/TodoList/blob/master/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
